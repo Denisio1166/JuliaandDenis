@@ -1,0 +1,6 @@
+wedding-invite/
+├── index.html
+├── style.css
+├── script.js
+└── images/
+    └── main.jpg   ← ваше фото
